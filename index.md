@@ -12,3 +12,5 @@ Final OOP project for interactive calculator. Source file [here](https://github.
 
 ![Calculator](https://github.com/kappter/ProgrammingPortfolio2021A1/blob/gh-pages/images/Calc.png?raw=true)
 
+All projects coded during 2020-21 school year. [Mr Kapptie](mailto:kkapptie@graniteschools.org)
+
